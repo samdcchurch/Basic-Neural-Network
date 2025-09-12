@@ -1,0 +1,5 @@
+data/train/*
+data/test/*
+build
+.vscode
+.clang-format
