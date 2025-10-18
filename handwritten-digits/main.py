@@ -9,7 +9,7 @@ from utils.loss_functions import BCE
 n = [784, 16, 16, 10]
 g = [None, relu, relu, sigmoid]
 Loss = BCE
-learning_rate = 0.05
+learning_rate = 0.15
 num_iterations = 1000
 loss_notification = 100
 
